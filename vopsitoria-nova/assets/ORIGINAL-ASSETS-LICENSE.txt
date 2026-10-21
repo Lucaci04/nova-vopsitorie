@@ -1,0 +1,27 @@
+Assets — Nova Vopsitorie website, 2026
+
+3D car model (assets/car.glb, assets/car-glb.js, assets/car-*.webp renders):
+"Car Concept" by Eric Chadwick, © 2024 Darmstadt Graphics Group GmbH, from the
+Khronos glTF Sample Assets repository:
+https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/ — see CarConcept-LICENSE.md.
+Changes made for this site: Khronos and 3D Commerce logos removed from the
+licence-plate, emissive and tyre textures (colour and relief), material variants
+removed, glass simplified, textures resized to WebP, geometry compressed with
+meshopt. The car-*.webp files are renders of this modified model. The Khronos
+logos and trademarks are not licensed under CC BY 4.0 and are not used.
+It is a concept model, not a production car, and not a car repaired by Nova.
+
+Fonts (assets/fonts/): Big Shoulders Stencil (OFL-BigShoulders.txt) and Barlow /
+Barlow Condensed (OFL-Barlow.txt), SIL Open Font License 1.1.
+
+The favicon and schematic map graphics were authored for this project.
+
+The gallery illustrations were generated with OpenAI image_gen for this project.
+They are temporary illustrative assets, not photographs of Nova's workshop or
+customer repairs. Preserve the demonstration labels until replaced with approved
+authentic photographs. No claim of exclusive copyright in AI images is made.
+
+Third-party renderer Three.js is separately licensed under MIT; see
+../vendor/THREE-LICENSE.txt.
